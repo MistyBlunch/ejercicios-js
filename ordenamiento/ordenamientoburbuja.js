@@ -16,7 +16,7 @@ function ordenar(ar){
        ar[j+1] = aux;
      }
    }
- }console.log(ar);
+ }//console.log(ar);
 }
 
 ordenar(array);
